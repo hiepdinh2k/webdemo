@@ -1,0 +1,8 @@
+E:\CODE\visual studio\vs 2013\Web\Web\bin\Web.dll.config
+E:\CODE\visual studio\vs 2013\Web\Web\bin\Web.dll
+E:\CODE\visual studio\vs 2013\Web\Web\bin\Web.pdb
+E:\CODE\visual studio\vs 2013\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\CODE\visual studio\vs 2013\Web\Web\obj\Debug\Web.dll
+E:\CODE\visual studio\vs 2013\Web\Web\obj\Debug\Web.pdb
+E:\CODE\visual studio\vs 2013\Web\Web\bin\Newtonsoft.Json.dll
+E:\CODE\visual studio\vs 2013\Web\Web\bin\Newtonsoft.Json.xml
